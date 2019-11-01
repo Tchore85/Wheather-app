@@ -1,0 +1,17 @@
+.body {
+  border: solid;
+}
+
+h1 {
+  font-style: italic;
+  color: blue;
+}
+
+#get-weather {
+  border: solid 1px, black;
+  background: black;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+}
